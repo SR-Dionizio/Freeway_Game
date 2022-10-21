@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  canvas {
+    display: block;
+  }
+  
+  iframe {
+  
+    text-align: center;
+    width: 37%;
+    height: 443px;
+    margin: 0 31.5% 0 31.5%;
+  }
+  
+  header{
+    text-align: center;
+    background: #2F4F4F;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+  }
+  
+  .titulo {
+    color: aliceblue;
+    font-size: 1.5em;
+  }
+  
